@@ -1,0 +1,7 @@
+Beaverton,OR,Beaverton.txt,
+Portland,OR,Portland.txt,
+Salem,OR,Salem.txt,
+Johto,OR,Johto.txt,
+Ashford,OR,Ashford.txt,
+Eugene,OR,Eugene.txt,
+Kanto,OR,Kanto.txt,

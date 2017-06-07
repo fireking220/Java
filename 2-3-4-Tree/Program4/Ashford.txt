@@ -1,0 +1,4 @@
+Name1,30,60,Hotel,5.00,
+Name2,6,2,Home,Uber,
+Name3,40,80,Hotel,10.00,
+Name4,4,1,Home,Train,
