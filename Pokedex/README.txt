@@ -1,0 +1,1 @@
+This application simulates a functioning pokedex, double clicking on a pokemon in the Jlist will display its contents in the pokedexInformation tab on the right
