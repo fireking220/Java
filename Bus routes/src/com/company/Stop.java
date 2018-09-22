@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Stop {
     private int ID;
-    private ArrayList<Stop> adjStops;
+    private List<Stop> adjStops;
 
     public Stop(int ID){
         this.ID = ID;
@@ -14,5 +14,9 @@ public class Stop {
 
     public int getStopID(){
         return ID;
+    }
+
+    public void addAdjStop(Stop adjstop){
+        adjStops.add(adjstop);
     }
 }
